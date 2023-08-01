@@ -1,0 +1,21 @@
+.pic {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px
+  }
+
+  .color{
+    background-color:papayawhip;
+    width: 100%
+  }
+  .logo2{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 100px
+  }
+
+  .center{
+    text-align: center;
+  }
+
